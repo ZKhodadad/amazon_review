@@ -51,7 +51,7 @@ To explore how customers engage with Amazon products across different price tier
 - `AmazonReview.png`: Dashboard screenshot used in README
 - `README.md`: Project summary and key findings
 
-## ⚙️ Ranges Used in Analysis
+## Ranges Used in Analysis
 
 - **Actual Price Tier (INR)**:
   - `< ₹1000`: Affordable  
